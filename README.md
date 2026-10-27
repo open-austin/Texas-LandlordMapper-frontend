@@ -1,6 +1,8 @@
-# Welcome to React Router!
+# Texas LandlordMapper frontend
 
-A modern, production-ready template for building full-stack React applications using React Router.
+Frontend for Texas LandlordMapper, built with React Router.
+
+Related repositories: [data collection and processing](https://github.com/open-austin/Texas-LandlordMapper) · [design](https://github.com/open-austin/Texas-LandlordMapper-design).
 
 ## Features
 
